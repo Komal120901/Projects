@@ -1,0 +1,55 @@
+
+h1{
+  text-align: center;
+  font-family: 'Noto Serif', serif;
+  color:#023e8a;
+}
+
+h2{
+  margin: 40px;
+color:#0077b6;
+text-align:left;
+font-family: 'Noto Serif', serif;
+}
+
+p,dd,dt{
+text-align: justify;
+font-family: 'Noto Serif', serif;
+margin: 5px 40px;
+color: #423F3E;
+}
+
+
+ul{
+  font-family: 'Noto Serif', serif;
+  margin: 40px;
+  color: #423F3E;
+}
+
+.top-container{
+background-color:#bee1e6;
+height:500px;
+margin:0;
+padding:40px;
+text-align: center;
+}
+
+hr{
+border: dotted #48cae4 6px;
+border-bottom: none;
+width:4%;
+margin:100px auto;
+}
+
+.block{
+  display: inline-flex;
+  align-items: center;
+  margin-left: 250px;
+}
+.img{
+width: 300px;
+height: 400px;
+margin: 40px;
+
+border: solid;
+}
